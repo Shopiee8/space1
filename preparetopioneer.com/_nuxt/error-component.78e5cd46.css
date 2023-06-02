@@ -1,0 +1,1 @@
+:root{--real-height:100vh}.site-wrapper{background:url(../assets/images/error.png) 50% no-repeat;background-size:cover;display:flex;flex-direction:column;min-height:var(--real-height,100vh);position:relative}.site-header{left:0;position:absolute;top:0}.page-error{align-items:center;display:flex;flex-direction:column;flex-grow:1;justify-content:center}
